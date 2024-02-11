@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/q8KDddXYAgoAAAAC/vergil-sparda-vergil.gif"  />
+  <img height="300" src="https://i.makeagif.com/media/10-23-2022/7hGyGK.gif"  />
 </div>
 
 ###
@@ -76,12 +76,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=INB-Nicolas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=INB-Nicolas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="300" src="https://i.makeagif.com/media/10-23-2022/7hGyGK.gif"  />
 </div>
 
 ###
