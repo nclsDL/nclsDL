@@ -79,7 +79,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/INB-Nicolas/INB-Nicolas/output/snake.svg" alt="Snake animation" />
-
-###
