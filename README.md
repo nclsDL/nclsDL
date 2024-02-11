@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">- 🏫🔰 I’m a student under the program of BS Information Technology w/ Specialization in Cybersecurity @ FEU Institute of Technology.<br>- 📚 I'm currently learning and trying to master C++.<br>- ⚡ In my free time I enhance my coding skills.<br>- 💻 Aspiring Ethnical Hacker.<br><br>Stay Motivated.</p>
+<p align="center">- 🏫🔰 I’m a student under the program of BS Information Technology w/ Specialization in Cybersecurity <br> @ FEU Institute of Technology.<br>- 📚 I'm currently learning and trying to master C++.<br>- ⚡ In my free time I enhance my coding skills.<br>- 💻 Aspiring Ethnical Hacker.<br><br>Stay Motivated.</p>
 
 ###
 
