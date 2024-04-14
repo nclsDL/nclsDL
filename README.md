@@ -8,7 +8,7 @@
   <a href="https://www.facebook.com/pocholo.deleon07" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/pocholo-nicolas-de-leon-33b26b278/" target="_blank">
+  <a href="https://www.linkedin.com/in/pocholo-de-leon-33b26b278/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://tryhackme.com/p/SupportLegend" target="_blank">
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">- 🏫🔰 I’m a student under the program of <br> BS Information Technology w/ Specialization in Cybersecurity <br> @ FEU Institute of Technology.<br>- 📚 I'm currently learning and trying to master C++.<br>- ⚡ In my free time I enhance my coding skills.<br>- 💻 Aspiring Ethical Hacker.<br><br>Stay Motivated.</p>
+<p align="center">- 🏫🔰 I’m a student under the program of<br><b>BS Information Technology w/ Specialization in Cybersecurity</b><br>@ <b>FEU Institute of Technology.</b><br>- 📚 I'm currently learning and trying to master <b>C++.</b><br>- 🧠 I am interested in <b>Cybersecurity & Web Development.</b><br>- ⚡ In my free time I <b>enhance my coding skills.</b><br>- 💻 Aspiring <b>Ethnical Hacker.</b><br><br><b>Stay Motivated.</b></p>
 
 ###
 
