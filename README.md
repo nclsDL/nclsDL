@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="300" src="[https://media1.tenor.com/m/q8KDddXYAgoAAAAd/vergil-sparda-vergil.gif](https://media1.tenor.com/m/q8KDddXYAgoAAAAC/vergil-sparda-vergil.gif)"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nclsDL.nclsDL&left_text=Visitors"  />
 </div>
 
