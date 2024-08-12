@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nclsDL.nclsDL&left_text=Visitors"  />
-</div>
+<br clear="both">
+
+<h1 align="center">Hi! Im Nicolas👋</h1>
 
 ###
 
@@ -24,11 +24,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nclsDL.nclsDL&left_text=Visitors"  />
+</div>
 
 ###
 
-<h1 align="center">Hi! Im Nicolas👋</h1>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
