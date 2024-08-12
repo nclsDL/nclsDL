@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nclsDL.nclsDL&left_text=Visitors"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.facebook.com/pocholo.deleon07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="facebook logo"  />
   </a>
@@ -24,17 +30,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nclsDL.nclsDL&left_text=Visitors"  />
-</div>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <h1 align="center">Hi! Im Nicolas👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
