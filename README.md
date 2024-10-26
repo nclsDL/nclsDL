@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🏫🔰 BS Information Technology w/ Specialization in Cybersecurity Student @ FEU Institute of Technology.<br>- 📚 Currently learning and trying to master Java.<br>- 🧠 Interested in Cybersecurity & Computer Networking.<br>- ⚡ In my free time I enhance my coding skills.<br>- 💻 Aspiring Ethnical Hacker / Cybersecurity Analyst.<br>-  🟦😈🟦🗡️ Is always motivated.</p>
+<p align="left">- 🏫🔰 BS Information Technology w/ Specialization in Cybersecurity Student @ FEU Institute of Technology.<br>- 📚 Currently learning and trying to master Java.<br>- 🧠 Interested in Cybersecurity & Computer Networking.<br>- ⚡ In my free time I enhance my coding skills.<br>- 💻 Aspiring Ethical Hacker / Cybersecurity Analyst.<br>-  🟦😈🟦🗡️ Is always motivated.</p>
 
 ###
 
